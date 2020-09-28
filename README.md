@@ -1,4 +1,4 @@
-# Substrings
+# Recursion - The Fibonacci Sequence
 
 Ruby code for [The Odin Project's](https://www.theodinproject.com/) [Ruby Programming](https://www.theodinproject.com/courses/ruby-programming/lessons/recursion) course.
 
